@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="17282" started-at="2022-09-06T07:48:34Z" finished-at="2022-09-06T07:48:51Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="17282" started-at="2022-09-06T07:48:34Z" finished-at="2022-09-06T07:48:51Z">
+      <class name="org.test.Adactin">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:org.test.Adactin@1e643faf]" name="launchBrowser" is-config="true" duration-ms="13216" started-at="2022-09-06T13:18:21Z" finished-at="2022-09-06T13:18:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="login()[pri:1, instance:org.test.Adactin@1e643faf]" name="login" duration-ms="4246" started-at="2022-09-06T13:18:34Z" finished-at="2022-09-06T13:18:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="searchHotel()[pri:2, instance:org.test.Adactin@1e643faf]" name="searchHotel" duration-ms="3500" started-at="2022-09-06T13:18:38Z" finished-at="2022-09-06T13:18:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchHotel -->
+        <test-method status="PASS" signature="selectHotel()[pri:3, instance:org.test.Adactin@1e643faf]" name="selectHotel" duration-ms="1394" started-at="2022-09-06T13:18:42Z" finished-at="2022-09-06T13:18:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectHotel -->
+        <test-method status="PASS" signature="bookHotel()[pri:4, instance:org.test.Adactin@1e643faf]" name="bookHotel" duration-ms="1615" started-at="2022-09-06T13:18:43Z" finished-at="2022-09-06T13:18:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bookHotel -->
+        <test-method status="PASS" signature="bookConfirmation()[pri:5, instance:org.test.Adactin@1e643faf]" name="bookConfirmation" duration-ms="6473" started-at="2022-09-06T13:18:45Z" finished-at="2022-09-06T13:18:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bookConfirmation -->
+      </class> <!-- org.test.Adactin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
